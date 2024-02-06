@@ -1,9 +1,9 @@
 # Afk Bot
 <p align="center"> 
-    <img src="https://img.shields.io/github/issues/urfate/afk-bot">
-    <img src="https://img.shields.io/github/forks/urfate/afk-bot">
-    <img src="https://img.shields.io/github/stars/urfate/afk-bot">
-    <img src="https://img.shields.io/github/license/urfate/afk-bot">
+    <img src="https://img.shields.io/github/issues/AnhNguyenlost13/afk-bot">
+    <img src="https://img.shields.io/github/forks/AnhNguyenlost13/afk-bot">
+    <img src="https://img.shields.io/github/stars/AnhNguyenlost13/afk-bot">
+    <img src="https://img.shields.io/github/license/AnhNguyenlost13/afk-bot">
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## Installation
 
- 1. [Download](https://github.com/urFate/Afk-Bot/tags) the latest package.
+ 1. [Download](https://github.com/AnhNguyenlost13/afk-bot/tags) the latest package.
  2. Download & install [Node.JS](https://nodejs.org/en/download/)
  3. Run `npm install` command in bot directory.
  
@@ -36,5 +36,5 @@
  - Supported server versions: `1.8 - 1.20.4`?
  
  ### License
- [MIT](https://github.com/urFate/Afk-Bot/blob/main/LICENSE)
+ [MIT](https://github.com/AnhNguyenlost13/afk-bot/blob/main/LICENSE)
 
