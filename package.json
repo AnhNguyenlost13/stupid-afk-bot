@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "log4js": "^6.9.1",
-    "minecraft-data": "^3.60.0",
+    "minecraft-data": "^3.61.2",
     "mineflayer": "^4.18.0",
     "mineflayer-pathfinder": "^2.4.5"
   }
